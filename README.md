@@ -1,7 +1,7 @@
 # Functional Weather App
 
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/https://muqriqawiem.github.io/Weather-Today/commits/master)
-[![Website shields.io](https://img.shields.io/badge/Website-Up-yellow)](https://https://muqriqawiem.github.io/Weather-Today/)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/muqriqawiem.github.io/Weather-Today/commits/master)
+[![Website shields.io](https://img.shields.io/badge/Website-Up-yellow)](https://muqriqawiem.github.io/Weather-Today/)
 
 <ul>
   <li>Weather app using HTML, CSS & Javascript.</li<>
