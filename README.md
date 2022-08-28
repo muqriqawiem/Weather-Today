@@ -1,6 +1,6 @@
 # Functional Weather App
 
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/https://muqriqawiem.github.io/Weather-Today//commits/main)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/https://muqriqawiem.github.io/Weather-Today/commits/main)
 [![Website shields.io](https://img.shields.io/badge/Website-Up-yellow)](http://https://muqriqawiem.github.io/Weather-Today/)
 
 <ul>
