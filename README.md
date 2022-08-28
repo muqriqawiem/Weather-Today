@@ -9,4 +9,4 @@
   <li>Background images from https://unsplash.com/</li<>
 </ul>
 
-  <br/>[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://https://muqriqawiem.github.io/Weather-Today/)
+  <br/>[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://muqriqawiem.github.io/Weather-Today/)
